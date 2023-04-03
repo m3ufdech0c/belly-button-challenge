@@ -24,3 +24,6 @@ Similarly we create a bubble chart that displays each sample.
 Next we would to display the sample metadata, i.e., an individual's demographic information, and in order to do so we will write a function to build Demographic info section
 
 Finally we will call a function that will fetch new data each time a new sample is selected.
+
+The link to my deployment is:
+https://m3ufdech0c.github.io/belly-button-challenge/
